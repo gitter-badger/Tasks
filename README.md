@@ -1,5 +1,7 @@
 # Tasks of every week
 ---
+
+[![Join the chat at https://gitter.im/SummerRC/Tasks](https://badges.gitter.im/SummerRC/Tasks.svg)](https://gitter.im/SummerRC/Tasks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - 第一周（15.12.31-－16.1.3）
 	- ~~GitBook 官方文档翻译（完成80%）~~
 	- ~~Mac 下 PHP 环境搭建~~
